@@ -1,0 +1,14 @@
+# Security
+*.env
+*.secret
+serviceAccountKey.json
+
+# Arduino/ESP32 build files
+*.hex
+*.elf
+*.bin
+.pio/
+
+# IDE
+.vscode/
+.idea/
