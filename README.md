@@ -18,7 +18,7 @@
 
 ## Hardware Setup  
 
-### Arduino Mega 2560  
+### Arduino Mega Pro 2560 Mini
 | Component       | Pins                              |  
 |-----------------|-----------------------------------|  
 | Soil Sensors    | `A9, A7, A5, A3, A1, A0, A2, A4, A6` |  
